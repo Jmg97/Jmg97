@@ -26,7 +26,7 @@
 	<img src="https://img.shields.io/badge/Eclipse IDE-525C86?style=flat&logo=Eclipse IDE&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Svn-809CC9?style=flat&logo=Subversion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-809CC9?style=flat&logo=Figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/Svn-809CC9?style=flat&logo=Subversion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
 </div>
