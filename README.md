@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-📚 Tech Stack 📚
+	<h3>📚 Tech Stack 📚</h3>
 </div>
 
 
@@ -16,7 +16,9 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
 </div>
 
-<center>🛠 Tools 🛠</center>
+<div align="center">
+	<p>🛠 Tools 🛠</p>
+</div>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
