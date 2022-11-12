@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jmg GitHub! &fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jmg%20Github!&fontSize=90" />	
 </div>
 
 <div align="center">
@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
 </div>
+<br>
 
 <div align="center">
 	<p>🛠 Tools 🛠</p>
@@ -29,6 +30,7 @@
     <img src="https://img.shields.io/badge/Svn-809CC9?style=flat&logo=Subversion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
 </div>
+<br>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmg97&layout=compact"><br><br>
